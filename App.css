@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  background-image: linear-gradient(360deg, #8e8dbe, #69385c);
+  height: 100vh;
+}
+.App label {
+  padding-top: 10px;
+  font-size: xx-large;
+  font-weight: bold;
+  font-family: sans-serif;
+  letter-spacing: 4px;
+  color: #fff;
+}
+
+.Container1 {
+  /* background-color: rgb(88, 88, 130); */
+  height: 200px;
+  text-align: -webkit-center;
+  padding-top: 25px;
+}
+
+.Container2 p {
+  padding-top: 10px;
+  font-size: "20px";
+  font-weight: bold;
+  font-family: sans-serif;
+  letter-spacing: 4px;
+  color: #fff;
+}
+.Container3 {
+  width: auto;
+  display: inline-block;
+}
+.Container3 p {
+  padding-top: 10px;
+  font-size: "50px";
+  font-weight: bold;
+  font-family: sans-serif;
+  letter-spacing: 4px;
+  color: #fff;
+}
